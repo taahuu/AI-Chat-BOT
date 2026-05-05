@@ -1,2 +1,23 @@
-# AI-Chat-BOT
-AI Chatbot using Streamlit + Hugging Face
+# 🤖 AI Chatbot (Streamlit + Hugging Face)
+
+An interactive AI chatbot built using Streamlit and Llama 3.1 via Hugging Face.
+
+## 🚀 Features
+- ChatGPT-like UI
+- Conversation memory
+- Real-time typing effect
+- Fast and lightweight
+
+## 🛠 Tech Stack
+- Python
+- Streamlit
+- LangChain
+- Hugging Face (Llama 3.1)
+
+## ▶️ Run Locally
+
+```bash
+git clone https://github.com/your-username/ai-chatbot.git
+cd ai-chatbot
+pip install -r requirements.txt
+streamlit run app.py
