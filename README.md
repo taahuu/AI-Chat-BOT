@@ -46,7 +46,8 @@ ai-chatbot/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/ai-chatbot.git
+git clone (https://github.com/taahuu/AI-Chat-BOT)
+
 cd ai-chatbot
 
 ### 2️⃣ Install Dependencies
